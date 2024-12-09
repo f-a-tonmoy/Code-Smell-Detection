@@ -1,10 +1,6 @@
-#### **README.md**
-
-```markdown
 # Code Smell Detection
 
-[![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org/downloads/release/python-380/)
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+---
 
 ## 📝 Project Overview
 
@@ -12,10 +8,6 @@ Code smells are subtle indicators of poor code quality that can lead to technica
 - Data preprocessing and feature engineering.
 - Detecting code smells like Long Method, Large Class, and God Object.
 - Leveraging correlation analysis and machine learning methods for feature selection.
-
----
-
-Here’s the dataset portion for your README:
 
 ---
 
@@ -61,6 +53,7 @@ Here’s the dataset portion for your README:
 4. **Detailed Visualizations**:
    - Correlation heatmaps for feature relationships.
    - Confusion matrices and performance metrics.
+   - AUC, ROC, and Precision-Recall Curve.
 
 ---
 
